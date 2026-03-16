@@ -1,3 +1,8 @@
 ill be using this a lot
+<<<<<<< HEAD
 added the second line to main
 another line
+=======
+second line
+>>>>>>> feature
+please merge
